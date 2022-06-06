@@ -11,7 +11,7 @@ Follow me on [Twitter](https://twitter.com/simonisworking) or [Github](https://g
 
 This #100DaysOfCode challenge was completed while attending the [School of Code bootcamp](https://www.schoolofcode.co.uk/)
 
-<img src="files/soc-logo.png" alt="SoC-logo" width="150"/>
+<img src="images/soc-logo.png" alt="SoC-logo" width="150"/>
 
 ➡️ Skip to my [Latest Entry](#days-37--38)
 
