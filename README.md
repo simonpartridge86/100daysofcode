@@ -13,7 +13,7 @@ This #100DaysOfCode challenge was completed while attending the [School of Code 
 
 <img src="images/soc-logo.png" alt="SoC-logo" width="150"/>
 
-➡️ Skip to my [Latest Entry](#days-37--38)
+➡️ Skip to my [Latest Entry](#day-66)
 
 ---
 ### *Day 1*
