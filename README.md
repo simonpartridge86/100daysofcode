@@ -168,5 +168,86 @@ This #100DaysOfCode challenge was completed while attending the [School of Code 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Days 37 &amp; 38<br>Took a break from Twitter this long wknd, but not from coding. Spent Friday testing an app front-end with Cypress, and today testing the back-end with jest/supertest. Finished the day prepping for React <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1533558555676131332?ref_src=twsrc%5Etfw">June 5, 2022</a></blockquote>
 
 ---
+### *Day 39*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 39<br>Today <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> introduced us to React, a popular JS library used to build interactive UIs. Already getting glimpses of how powerful it can be, but expecting this to be a deep old rabbit hole. Wish me luck 
+<a href="https://t.co/GvfUpUpej1">pic.twitter.com/GvfUpUpej1</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1533894490024464384?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote>
+
+---
+### *Day 40*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 40<br>Second day of React <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a>, starting to put basic components together using JSX syntax. Think it&#39;ll take a little time to get used to this weird HTML/JS hybrid. Also had a go with Create React App, a convenient way to make single-page apps. <a href="https://t.co/sy6oaERT4H">pic.twitter.com/sy6oaERT4H</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1534256757509439488?ref_src=twsrc%5Etfw">June 7, 2022</a></blockquote>
+
+---
+### *Days 41-43*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Days 41-43<br>It&#39;s been all React this week <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a>, and the fact that I forgot to tweet for 3 days is probs indicative of how challenging it&#39;s been. But happy to find at this week&#39;s hackathon that I&#39;ve managed to wrap my head around the key concepts 🥳🎉 <a href="https://t.co/vsppP2Dswe">pic.twitter.com/vsppP2Dswe</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1535526750381285376?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote>
+<br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For posterity&#39;s sake, we learned about hooks, setting and changing state, passing props into functional components, and using array methods to make immutable changes. Doesn&#39;t sound like much when put like that, but bringing it all together successfully was mind-bending at points!</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1535529822293827585?ref_src=twsrc%5Etfw">June 11, 2022</a></blockquote>
+
+---
+### *Day 44*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 44<br>Enjoyed the React recap tasks from <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> this wknd. Even went deep to try and get my files passing the built-in Jest tests. Took a lot of effort (and help from Christophe) but I got them passing in the end!</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1536290287181565953?ref_src=twsrc%5Etfw">June 13, 2022</a></blockquote>
+
+---
+### *Day 45*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 45<br>Started the day with some CSS flexbox practice, making some progress. Then learned about pure functions and useEffect <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a>. All finished off with our little southwest bootcampers Monday chat! Great day!</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1536480076161761285?ref_src=twsrc%5Etfw">June 13, 2022</a></blockquote> 
+
+---
+### *Day 46*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 46<br>Had a fun day learning about finite state machines and the benefits of useReducer in React. Also took up a challenge from <a href="https://twitter.com/a_skn_r?ref_src=twsrc%5Etfw">@a_skn_r</a> to complete my first 5kyu kata on <a href="https://twitter.com/codewars?ref_src=twsrc%5Etfw">@codewars</a> - the solution ain&#39;t pretty, but it sure works! Ranked up to 6kyu in the process! <a href="https://t.co/U8RvfRgaXj">pic.twitter.com/U8RvfRgaXj</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1536839853727531011?ref_src=twsrc%5Etfw">June 14, 2022</a></blockquote>
+
+---
+### *Day 47*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 47<br>Today we learned about testing components in React <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a>, which went really well once we found our footing. Lovely guest speakers from Experian dropped in too. <a href="https://t.co/vLPurPEvic">pic.twitter.com/vLPurPEvic</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1537126177353175042?ref_src=twsrc%5Etfw">June 15, 2022</a></blockquote>
+
+---
+### *Day 48*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 48<br>Had a multifaceted Thursday <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a>, including sessions on fostering a healthy team culture, Git branching, REST APIs, and group presentations on various Agile methodologies and processes. Comprehensive info on a hot day 🥵</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1537707872183848960?ref_src=twsrc%5Etfw">June 17, 2022</a></blockquote>
+
+---
+### *Day 49*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 49<br>Today <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> was a Heatwave Hackathon!<br>We built React apps using fetch to interact with external APIs, and I was pretty happy with the result, despite getting muddled with some of the logic. Laptop needs an ice bath now. <a href="https://t.co/MbPa0Cd4hd">pic.twitter.com/MbPa0Cd4hd</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1537835936158994433?ref_src=twsrc%5Etfw">June 17, 2022</a></blockquote>
+
+---
+### *Day 50*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 50 (HALFWAY!!)<br>Continued messing around with Friday&#39;s Hackathon to get more comfortable with React, with a satisfying outcome - an app that suggests a random movie &amp; cocktail for your night in. CSS is still a struggle, so ended up using a SASS template instead <a href="https://t.co/97zzFJvNbS">pic.twitter.com/97zzFJvNbS</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1538558185811984386?ref_src=twsrc%5Etfw">June 19, 2022</a></blockquote>
+
+---
+### *Day 51*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 51<br>Well today was knackering! The first of a 5-day project, and it was a day of research, discussion, and ideation. None are my strongest skills, but we had a really productive outcome I think. Looking forward to plan and start the app coding tmrw! <a href="https://t.co/bLoor04O0O">pic.twitter.com/bLoor04O0O</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1538995202412752902?ref_src=twsrc%5Etfw">June 20, 2022</a></blockquote>
+
+---
+### *Days 52-54*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Days 52-54<br>Project week <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> has been intense, but at the end of it we&#39;ve done some great teamwork and finished up with an MVP to be proud of. Need to remember more that I had precisely none of these coding skills 8 weeks ago! Great job team mishMash! <a href="https://t.co/g5Plpx81SC">pic.twitter.com/g5Plpx81SC</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1540078868744265732?ref_src=twsrc%5Etfw">June 23, 2022</a></blockquote>
+
+---
+### *Day 55*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 55<br>This little app demo may not look like much, but it represents 4.5 days of real team effort. I’ve really enjoyed learning how to use agile methods, and carry out app design, planning, and coding as a cohesive team. Great week!! <a href="https://t.co/UObtjhSeSj">pic.twitter.com/UObtjhSeSj</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1540376850236579840?ref_src=twsrc%5Etfw">June 24, 2022</a></blockquote>
+
+---
+### *Day 56*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 56<br>Really loved today <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a>, where we had a retrospective on last week&#39;s project, and performed a code review on another team&#39;s work. Found both these processes really interesting and super beneficial! Glad I had the wknd to refresh first though <a href="https://t.co/iAvdW76rJ8">pic.twitter.com/iAvdW76rJ8</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1541477087961292800?ref_src=twsrc%5Etfw">June 27, 2022</a></blockquote>
+
+---
+### *Day 57*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 57<br>The project week post-mortem continued today <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> <br>Our team refactored our existing code and back-end tests to improve readability, and then tried our hand at writing accompanying documentation. <a href="https://t.co/XWT04BF75v">pic.twitter.com/XWT04BF75v</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1541816428747231233?ref_src=twsrc%5Etfw">June 28, 2022</a></blockquote>
+
+---
+### *Day 58*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 58<br>I love tidying &amp; organisation (weird I know), so this week <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> has been great. We&#39;ve wrapped our week 9 projects in nice documentation and testing bows, and learned much in the process.<br>Really pleased with the docs we&#39;ve made (see video below) <a href="https://t.co/TUnTdfed8Z">pic.twitter.com/TUnTdfed8Z</a></p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1542186571776102403?ref_src=twsrc%5Etfw">June 29, 2022</a></blockquote>
+
+---
+### *Days 59 & 60*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Days 59 &amp; 60<br>After wrapping up our docs and front-end testing, we learned how to use a user authorization platform, Auth0. We got pretty confused at several points, but battled through, aided by others, to get some authorization working on our full-stack app. Phew!</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1542910947932753920?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote>
+
+---
+### *Days 61-64*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Days 61-64<br>Took an accidental break from Twitter this week, but I&#39;ve spent the last few days <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> learning more about Auth0, full-stack deployment with Netlify/Heroku, and new React hooks (useContext and custom hooks). Unrelenting pace!</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1544952201562431489?ref_src=twsrc%5Etfw">July 7, 2022</a></blockquote>
+
+---
+### *Day 65*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 65<br>Today was mostly spent learning Couchbase, which I found quite hard to follow tbh. Then spent a couple of hours trying to hack a 4kyu kata on <a href="https://twitter.com/codewars?ref_src=twsrc%5Etfw">@codewars</a>, but ended up having to throw in the towel. Just one of those days 💩</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1545152559718989828?ref_src=twsrc%5Etfw">July 7, 2022</a></blockquote>
+
+---
+### *Day 66*
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> Day 66<br>Yesterday <a href="https://twitter.com/theSchoolOfCode?ref_src=twsrc%5Etfw">@theSchoolOfCode</a> was all about AWS, specifically getting to know Amplify. We installed, we deployed, we laughed, we cried! AWS is certainly an overwhelming and powerful range of tools for the uninitiated, but worth getting familiar with.</p>&mdash; Simon Partridge (@simonisworking) <a href="https://twitter.com/simonisworking/status/1545677268856590336?ref_src=twsrc%5Etfw">July 9, 2022</a></blockquote>
 
 [Return to Top](#100daysofcode)
